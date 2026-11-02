@@ -19,12 +19,11 @@ Python(Pandas and numpy), Power BI, DAX, Power Query, Data Modelling
 - Designed an interactive dashboard with KPI cards, charts and slicers for [year, region, category]
 
 ## Key Findings
-- Retained revenue was $1,176.65 across 20 orders, after discounts and excluding returned orders.
-- The overall return rate was 15%: 3 of 20 orders were marked returned.
-- Home was the top category by retained revenue, contributing $523.55—about 45% of the total. Clothing contributed $347.68, and Electronics $305.42.
-- Electronics had the most returned orders: 2 of 7 orders (about 29%). Clothing had 1 of 6 returned (about 17%); Home had none of 7.
-- Seattle had the most orders, with 8 of 20 (40%), followed by Portland with 6. Boise and Spokane had 3 each.
-- Average shipping time was 3.65 days.
+- Sales value is concentrated in Bikes: Bikes account for about 94.9% of estimated sales—approximately $23.64M—but only 13,929 units.
+- Accessories lead in unit volume: Accessories account for 57,809 units, about 68.7% of all units sold, but only around 3.6% of estimated sales. This shows why unit volume and sales value tell different stories.
+- Australia is the largest territory by estimated sales: about $7.42M, or 29.8% of the total.
+- Returns: the source records 1,828 returned units. Compared with 84,174 units sold, that is about 2.2% as a period-level comparison—not a true return rate, because returns can’t be linked to their original orders.
+- Time coverage matters: sales run through June 30, 2022, so 2022 is a partial year. Avoid presenting a direct full-year comparison with 2020 or 2021 as if the periods were equivalent.
 
 ## Screenshots
 ![Dashboard Overview](images/dashboard-overview-1.png, images/dashboard-overview-2, images/dashboard-overview-3, images/dashboard-overview-4)
